@@ -52,7 +52,6 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/darshanananth/darshanananth/output/snake.svg" alt="Snake animation" />
-[Snake animation](https://github.com/jeanth20/jeanth20/raw/main/dist/github-contribution-grid-snake.svg)
 
 
 ###
