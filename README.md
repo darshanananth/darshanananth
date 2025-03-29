@@ -55,8 +55,11 @@
 
 ###
 
+### ✍️ Latest Medium Post  
 <div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=1&username=https://medium.com/@darshanpersonal467&theme=dark" alt="Layout with last medium posts"  />
+### ✍️ Latest Medium Post  
+[![Latest Medium Post](https://img.shields.io/badge/Medium-Read%20Now-black?style=for-the-badge&logo=medium)](https://medium.com/@darshanpersonal467/latest)
+
 </div>
 
 ###
